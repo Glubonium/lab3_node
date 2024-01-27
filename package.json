@@ -10,7 +10,8 @@
     "lint:fix": "eslint . --fix",
     "format": "npx prettier . --check",
     "format:fix": "npx prettier . --write",
-    "prepare": "npx husky-init & npm install --force"
+    "prepare": "husky install",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
