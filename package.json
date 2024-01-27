@@ -1,5 +1,5 @@
 {
-  "name": "lab1_node",
+  "name": "lab3_node",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Glubonium/lab1_node.git"
+    "url": "git+ssh://git@github.com/Glubonium/lab3_node.git"
   },
   "author": "Glubonium",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Glubonium/lab1_node/issues"
+    "url": "https://github.com/Glubonium/lab3_node/issues"
   },
-  "homepage": "https://github.com/Glubonium/lab1_node#readme",
+  "homepage": "https://github.com/Glubonium/lab3_node#readme",
   "devDependencies": {
     "eslint": "^8.56.0",
     "eslint-config-semistandard": "^17.0.0",
